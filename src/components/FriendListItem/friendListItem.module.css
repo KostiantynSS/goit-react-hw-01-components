@@ -1,0 +1,21 @@
+.status {
+  margin-left: 20px;
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.item {
+  display: flex;
+  align-items: center;
+
+  border-color: grey;
+  box-shadow: 0px 0px 5px 0px #000;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  gap: 10px;
+}
+.name {
+  display: block;
+}
